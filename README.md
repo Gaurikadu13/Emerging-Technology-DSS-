@@ -61,9 +61,12 @@ It demonstrates hands-on practice of essential concepts using real-world dataset
 ---
 
 ## 🤝 Connect with Me
-If you find my work helpful or want to collaborate, feel free to connect!  
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/gauri-kadu-74154a31a])
+If you find my work helpful or want to collaborate, feel free to connect!
+
+- 🌐 **[LinkedIn Profile](https://www.linkedin.com/in/gauri-kadu-74154a31a)**  
+- 📧 **Email:** gaurikadu324@gmail.com
+
 
 ---
 
